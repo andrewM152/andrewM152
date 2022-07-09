@@ -1,6 +1,6 @@
-👋 Hi there! I'm Andrew Massoud, a recent graduate of the Johns Hopkins University. 
+👋 Hi there! I'm Andrew Massoud, a healthcare analytics consultant and lifelong learner. 
 
-:mortar_board: I received my B.S. in Applied Mathematics and Statistics with a focus in statistical learning.
+:mortar_board: I received my B.S. in Applied Mathematics and Statistics from the Johns Hopkins University in 2021 with a focus in statistical learning.
 
 :chart_with_upwards_trend: I’m interested in the intersection of healthcare and data. 
 
