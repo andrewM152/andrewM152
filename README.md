@@ -2,7 +2,7 @@
 
 :mortar_board: I received my B.S. in Applied Mathematics and Statistics from the Johns Hopkins University in 2021 with a focus in statistical learning.
 
-:chart_with_upwards_trend: I’m interested in the intersection of healthcare and data. 
+:chart_with_upwards_trend: I’m interested in the intersection of healthcare and data and how their union can lead to advances in precision medicine and modern healthcare.
 
 :eyes: I'm passionate about servicing healthcare delivery, access, management, and research through data science and an entrepreneurial spirit.
 
