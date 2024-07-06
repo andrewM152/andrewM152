@@ -10,7 +10,7 @@
 learn more machine learning applications in the clinical world as I improve my statistical and programming acumen.
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
-📫 Connect with me on LinkedIn <a href = "https://www.linkedin.com/in/andrew-massoud/">here</a> or email me at: andrewmassoud07@gmail.com
+📫 Connect with me on LinkedIn <a href = "https://www.linkedin.com/in/andrew-massoud/">here</a>.
 
 <!---
 andrewM152/andrewM152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
