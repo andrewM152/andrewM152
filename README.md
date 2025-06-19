@@ -1,13 +1,12 @@
-👋 Hi there! I'm Andrew Massoud, a healthcare analytics consultant and lifelong learner. 
+👋 Hi there! I'm Andrew Massoud, an experienced healthcare data scientist and lifelong learner. 
 
-:mortar_board: I'm currently pursuing my M.S. in Data Science at the Johns Hopkins University. I received my B.S. in Applied Mathematics and Statistics from Johns Hopkins in 2021 with a focus in statistical learning.
+:chart_with_upwards_trend: My goal is to advance precision medicine through modern analytics and automation.
 
-:chart_with_upwards_trend: I’m interested in the intersection of healthcare and data and how their union can lead to advances in precision medicine and modern healthcare.
+:mortar_board: I hold an M.S. in Data Science from The Johns Hopkins University. I previously received a Graduate Certificate in Applied and Computational Mathematics and a B.S. in Applied Mathematics and Statistics, both also from Johns Hopkins.
 
 :eyes: I'm passionate about servicing healthcare delivery, access, management, and research through data science and an entrepreneurial spirit.
 
-:hospital: Some of the things I'm currently working on include an application of reinforcement learning to the optimization of clinical treatment policies and continiuing to
-learn more machine learning applications in the clinical world as I improve my statistical and programming acumen.
+:hospital: Some of my work includes reinforcement learning on clinical treatment policies, harnessing computer vision for tumor detection on brain MRIs using convolutional neural networks, designing classifiers for PFAS detection in wastewater, and optimizing health provider reimbursement through rigorous data mining and engineering.
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 📫 Connect with me on LinkedIn <a href = "https://www.linkedin.com/in/andrew-massoud/">here</a>.
